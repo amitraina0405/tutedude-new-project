@@ -5,4 +5,9 @@
     {"id": 6, "name": "fox", "role": "java"},
     {"id": 7, "name": "rab", "role": "python"},
     {"id": 8, "name": "sia", "role": "c++"}
+    {"id": 9, "name": "tom", "role": "actor"},
+    {"id": 10, "name": "dick", "role": "singer"},
+    {"id": 11, "name": "harry", "role": "dancer"}
+
+
 ]
